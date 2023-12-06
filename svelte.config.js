@@ -14,9 +14,9 @@ const config = {
 		adapter: adapter({
 			pages: "build",
 			assets: "build",
-			fallback: "index.html",
+			fallback: null,
 			precompress: false,
-			strict: true
+			strict: false
 		}),
 		alias: {
 			'@components': './src/lib/components',

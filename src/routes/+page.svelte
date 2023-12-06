@@ -1,4 +1,5 @@
 <script>
+	export const prerender = true;
 	import AsideMenu from '@components/AsideMenu.svelte';
 </script>
 
