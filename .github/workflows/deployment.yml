@@ -20,7 +20,9 @@ jobs:
         run: npm install
       
       - name: 📦 Build site
-        run: npm run build
+        run: |
+          npm run build
+          touch build/_nojekyll
       
       - name: ⬆️ Upload Pages Artifact
         uses: actions/upload-pages-artifact@v2
