@@ -20,6 +20,8 @@ jobs:
         run: npm install
       
       - name: 📦 Build site
+        env:
+          BASE_PATH: /svelte-spotify
         run: |
           npm run build
           touch build/_nojekyll
