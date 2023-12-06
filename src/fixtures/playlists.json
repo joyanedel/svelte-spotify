@@ -1,0 +1,69 @@
+[
+    {
+      "name": "Chill Vibes",
+      "description": "A collection of relaxing and mellow tracks to unwind with.",
+      "src": "https://picsum.photos/200/300?image=100",
+      "tracks": [
+        {
+          "title": "Sail Away",
+          "artist": "Smooth Jazz Allstars",
+          "album": "Relaxing Vibes"
+        },
+        {
+          "title": "Weightless",
+          "artist": "Marconi Union",
+          "album": "Margins"
+        },
+        {
+          "title": "River Flows in You",
+          "artist": "Yiruma",
+          "album": "First Love"
+        }
+      ]
+    },
+    {
+      "name": "Upbeat Anthems",
+      "description": "Get energized and motivated with these high-energy tracks.",
+      "src": "https://picsum.photos/200/300?image=200",
+      "tracks": [
+        {
+          "title": "Run the World (Girls)",
+          "artist": "Beyoncé",
+          "album": "4"
+        },
+        {
+          "title": "Happy",
+          "artist": "Pharrell Williams",
+          "album": "Despicable Me 2"
+        },
+        {
+          "title": "Uptown Funk",
+          "artist": "Mark Ronson featuring Bruno Mars",
+          "album": "Uptown Funk"
+        }
+      ]
+    },
+    {
+      "name": "Focus & Study",
+      "description": "Enhance your focus and productivity with these instrumental and ambient tracks.",
+      "src": "https://picsum.photos/200/300?image=300",
+      "tracks": [
+        {
+          "title": "Ascension",
+          "artist": "Hans Zimmer",
+          "album": "Inception (Original Motion Picture Soundtrack)"
+        },
+        {
+          "title": "Gymnopédie No. 1",
+          "artist": "Erik Satie",
+          "album": "Gymnopédies"
+        },
+        {
+          "title": "Morning Mood",
+          "artist": "Edvard Grieg",
+          "album": "Peer Gynt Suite No. 1, Op. 46"
+        }
+      ]
+    }
+  ]
+  
