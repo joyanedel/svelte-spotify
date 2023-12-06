@@ -16,7 +16,7 @@
 	<main class="[grid-area:main] bg-red-100 flex flex-col justify-center items-center">
 		<div>
 			<h1 class="text-4xl font-bold animated-colors">Como tan muchacho</h1>
-			<h6 class="text-md font-bold text-right">Yo lo veo a ustede muy bien 2</h6>
+			<h6 class="text-md font-bold text-right">Yo lo veo a ustede muy bien</h6>
 		</div>
 	</main>
 	<footer class="[grid-area:player] bg-zinc-900 flex-1 min-h-[64px]">Player</footer>
